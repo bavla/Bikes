@@ -6,10 +6,10 @@ http://vladowiki.fmf.uni-lj.si/doku.php?id=notes:net:bikes
 
 ## Bike datasets
 
-  * [[https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems|List of Bike Share data portals / GitHub]]
-  * [[https://bikedataproject.org/|Bike data project]]
-  * Bay Area Bike Share: [[https://www.kaggle.com/benhamner/sf-bay-area-bike-share|San Francisco Bay Area - Kaggle challenge]], [[http://www.bayareabikeshare.com/open-data|Open data]], [[https://www.kaggle.com/c/bike-sharing-demand|challenge]]
-  * Hubway: [[http://hubwaydatachallenge.org/|Boston - data challenge]]
+  * [List of Bike Share data portals / GitHub](https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems)
+  * [Bike data project](https://bikedataproject.org/)
+  * Bay Area Bike Share: [San Francisco Bay Area - Kaggle challenge](https://www.kaggle.com/benhamner/sf-bay-area-bike-share), [Open data](http://www.bayareabikeshare.com/open-data), [challenge](https://www.kaggle.com/c/bike-sharing-demand)
+  * Hubway: [Boston - data challenge](http://hubwaydatachallenge.org/)
   * [[https://www.citibikenyc.com/system-data|New York]], [[http://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/|Analysis / GitHub]], [[https://github.com/toddwschneider/nyc-citibike-data|Data]]; [[https://www.ocf.berkeley.edu/~adityakh/2015/11/16/bike-stations-in-new-york/|Stations]], [[https://www.ocf.berkeley.edu/~adityakh/2015/12/14/analysis-of-the-new-york-city-bike-share-system/|Analysis]]; [[https://www.fastcoexist.com/1682698/how-were-visualizing-new-yorks-new-bike-sharing-system|Vis]]
   * Divvy: [[https://www.divvybikes.com/data|Chicago]], [[https://www.divvybikes.com/resources|Info]]
   * Indego: [[https://www.rideindego.com/about/data/|Philadelphia]]
