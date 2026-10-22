@@ -6,8 +6,6 @@ http://vladowiki.fmf.uni-lj.si/doku.php?id=notes:net:bikes
 
 ## Bike datasets
 
-====== Bikes ======
-
   * [[https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems|List of Bike Share data portals / GitHub]]
   * [[https://bikedataproject.org/|Bike data project]]
   * Bay Area Bike Share: [[https://www.kaggle.com/benhamner/sf-bay-area-bike-share|San Francisco Bay Area - Kaggle challenge]], [[http://www.bayareabikeshare.com/open-data|Open data]], [[https://www.kaggle.com/c/bike-sharing-demand|challenge]]
