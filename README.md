@@ -74,4 +74,6 @@ http://vladowiki.fmf.uni-lj.si/doku.php?id=notes:net:bikes
   * https://www.kaggle.com/datasets/gregorkrz/szdelays
   * https://www.kaggle.com/datasets/bvc5283/dc-taxi-trips
   * https://www.kaggle.com/datasets/asjad99/rome-taxi-data-subset
+  * https://data.geods.ac.uk/dataset/the-meddin-bike-sharing-world-map-data
+  * https://www.reddit.com/r/datasets/comments/1rlfjv3/european_bikesharing_dataset_25m_trips_across_267/
 
